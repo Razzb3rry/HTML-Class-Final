@@ -9,6 +9,7 @@ body {
 	background-image: url(cupcakeimage.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-color: rgb(150, 75, 140);
 }
 
 .title {
