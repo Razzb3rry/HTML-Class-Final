@@ -8,7 +8,7 @@
 body {
 	background-image: url(cupcakeimage.jpg);
 	background-size: cover;
-	background-repeat: none;
+	background-repeat: no-repeat;
 }
 
 .title {
